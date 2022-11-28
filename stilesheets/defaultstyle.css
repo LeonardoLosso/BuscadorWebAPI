@@ -106,7 +106,7 @@ main{
     margin-bottom: 50px;
 
     display: none;
-    width: 30vw;
+    width: fit-content;
     padding: 30px;
     
     box-shadow: 2px 2px 2px black;
