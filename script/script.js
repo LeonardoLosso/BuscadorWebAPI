@@ -4,7 +4,8 @@
 const Url = "https://webscraipinghttpsapi20221127133431.azurewebsites.net/WebScraping/search="
 
 $("#pesq").click(function() {
-
+    
+    $("#lista").empty();
     FazerPesquisa();
     InicializarElementos();
 })
